@@ -13,7 +13,7 @@ This repository contains automated tests for evaluating elements on the Tendable
 ## Running the Tests
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/tendable-automation.git
+   git clone https://github.com/dnyanesh32/tendable-automation.git
 
 2. Install all the dependancies using command :
    mvn clean install
